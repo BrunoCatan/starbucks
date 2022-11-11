@@ -5,17 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./src/styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;900&display=swap" rel="stylesheet">
     <title>Startbucks</title>
 </head>
 <body>
     <header>
-        <img src="./src/imgs/logo.png" alt="logo Startbucks">
+        <img src="./src/imgs/logo.png" class="logo">
     </header>
-
     <main>
-    <h2>It's not just Coffee <br>
-        It's <span>Starbucks</span></h2>
-        
+        <div class="conteudo">
+            <div class="caixa-texto">
+                <h2>It's not just Coffee <br>
+                It's <span>Starbucks</span></h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis eum corrupti odit aperiam illum odio voluptatum ea nisi iure vero. Neque tempore sequi nisi, enim vel omnis cumque delectus odit.</p>
+                <button>Deixe o seu Like!</button>
+            </div>
+
+            <div class="caixa-imagem">
+                <img src="./src/imgs/img1.png" class="starbucks">
+            </div>
+        </div>
     </main>
+    <footer>
+        <div class="menu">
+            <img src="./src/imgs/thumb1.png" class="botao-menu" onclick="trocarImagem('./src/imgs/img1.png'); trocarCor('#017143')">
+            <img src="./src/imgs/thumb2.png" class="botao-menu" onclick="trocarImagem('./src/imgs/img2.png'); trocarCor('#eb7495')">
+            <img src="./src/imgs/thumb3.png" class="botao-menu" onclick="trocarImagem('./src/imgs/img3.png'); trocarCor('#d752b1')">
+        </div>
+        <div class="circulo"></div>
+    </footer>
 </body>
+    <script src="./src/js/script.js"></script>
 </html>
