@@ -35,7 +35,7 @@ Site criado com a cara da starbucks, realizado no evento da DevClub, a onde quan
 
 ## 👨🏻‍💻 Deploy
 
-<a target="_blank" href="#">CLICK PARA ACESSAR!</a>
+<a target="_blank" href="https://brunocatan.github.io/starbucks/">CLICK PARA ACESSAR!</a>
 
 ## :memo: Licença
 
