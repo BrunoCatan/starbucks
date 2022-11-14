@@ -8,6 +8,7 @@ Site com a cara da starbucks.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Certificado">Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-developed-by-bruno-catan-">Contato</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -36,6 +37,12 @@ Site criado com a cara da starbucks, realizado no evento da DevClub, a onde quan
 ## 👨🏻‍💻 Deploy
 
 <a target="_blank" href="https://brunocatan.github.io/starbucks/">CLICK PARA ACESSAR!</a>
+
+## 🚀 Certificado
+
+<p align="center">
+  <img alt="startbucks" src="./.github/certificado.jpeg" width="100%">
+</p>
 
 ## :memo: Licença
 
