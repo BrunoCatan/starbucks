@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Site criado com a cara da starbucks, realizado no evento da DevClub, a onde quando você clica nos postes ele troca a imagem principal.
+Site criado com a cara da starbucks, realizado no evento da DevClub, a onde quando você clica nos potes ele troca a imagem principal.
 
 ## 👨🏻‍💻 Deploy
 
